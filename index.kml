@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Iran War Live — Network Link</name>
+    <description>Refreshes the hosted live incident layer every five minutes in Google Earth clients that support KML NetworkLinks.</description>
+    <NetworkLink>
+      <name>Live incidents (auto-refresh every 5 min)</name>
+      <open>1</open><visibility>1</visibility>
+      <refreshVisibility>0</refreshVisibility><flyToView>0</flyToView>
+      <Link>
+        <href>live.kml</href>
+        <refreshMode>onInterval</refreshMode>
+        <refreshInterval>300</refreshInterval>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
