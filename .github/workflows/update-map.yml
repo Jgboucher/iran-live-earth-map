@@ -1,0 +1,7 @@
+iran-live-earth-map/
+├── index.html
+├── README.md
+├── iran_live_google_earth_starter.zip
+└── .github/
+    └── workflows/
+        └── update-map.yml
