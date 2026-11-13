@@ -1,12 +1,12 @@
 {
   "status": "ok",
-  "generated_utc": "2026-11-13T04:30:32.984568+00:00",
+  "generated_utc": "2026-11-13T12:34:59.805007+00:00",
   "source": "https://iranwarlive.com/feed.json",
   "source_title": "IranWarLive OSINT Machine Feed",
-  "source_last_updated": "2026-11-13T04:00:06.529Z",
-  "feed_items": 11,
+  "source_last_updated": "2026-11-13T12:00:06.795Z",
+  "feed_items": 8,
   "mapped_confirmed_by_source_label": 0,
-  "mapped_reported": 11,
+  "mapped_reported": 8,
   "skipped_missing_or_out_of_area_coordinates": 0,
   "refresh_target_seconds": 300,
   "note": "Polling every five minutes does not make the source itself update every five minutes."
