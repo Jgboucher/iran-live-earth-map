@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "generated_utc": "2026-11-15T21:59:22.027734+00:00",
+  "generated_utc": "2026-11-16T01:54:30.540663+00:00",
   "source": "https://iranwarlive.com/feed.json",
   "source_title": "IranWarLive OSINT Machine Feed",
-  "source_last_updated": "2026-11-15T20:00:06.276Z",
+  "source_last_updated": "2026-11-16T00:00:06.072Z",
   "feed_items": 11,
   "mapped_confirmed_by_source_label": 0,
   "mapped_reported": 11,
